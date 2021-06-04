@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlosquenedit
 - 👀 I’m interested in building blockchain app, or any other program in C programming langage.
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on any proyect.
+- 💞️ I’m looking to learn and collaborate on any proyect.
 - 📫 How to reach me (954)-939-8956 and quenedit85@icloud.com
 
 <!---
